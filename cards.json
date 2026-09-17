@@ -1,0 +1,26 @@
+[
+  {
+    "word": "hello",
+    "translation": "привіт",
+    "language": "en",
+    "due": 0,
+    "interval": 2,
+    "ease": 2.0999999999999996
+  },
+  {
+    "word": "Hund",
+    "translation": "собака",
+    "language": "de",
+    "due": 0,
+    "interval": 2,
+    "ease": 2.3
+  },
+  {
+    "word": "goodbye",
+    "translation": "до побачення",
+    "language": "en",
+    "due": 0,
+    "interval": 2,
+    "ease": 1.8999999999999997
+  }
+]
