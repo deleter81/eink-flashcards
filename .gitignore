@@ -1,0 +1,14 @@
+# Generated screen previews (created when running off-device)
+start_screen.png
+main_screen.png
+done_screen.png
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# OS
+.DS_Store
